@@ -1,9 +1,0 @@
-<application>
-  <component name="CodeStyleSchemesUIConfiguration">
-    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:C:/dev/git_home/pc/commons/build-tools/idea-java-formatter.xml" />
-  </component>
-  <component name="RefactoringSettings">
-    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
-    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
-  </component>
-</application>
