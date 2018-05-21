@@ -1,0 +1,31 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="PHOENIX_ADMINISTRATIVE@dev-phoenix-db.post.ee" uuid="1a00750d-6262-46cb-859f-fae4fd2a00c5">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://dev-phoenix-db.post.ee;database=PHOENIX_ADMINISTRATIVE</jdbc-url>
+      <driver-properties>
+        <property name="applicationName" value="DataGrip" />
+      </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="PHOENIX_ADMINISTRATIVE@localhost" uuid="ad4ea935-eff3-43b6-a51b-6302abba759d">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://localhost;database=PHOENIX_ADMINISTRATIVE</jdbc-url>
+      <driver-properties>
+        <property name="applicationName" value="DataGrip" />
+      </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="PHOENIX_SCHEDULER@localhost" uuid="8bb16f2c-34ea-400f-b36b-8731c76a7b57">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://localhost;database=PHOENIX_SCHEDULER</jdbc-url>
+      <driver-properties>
+        <property name="applicationName" value="DataGrip" />
+      </driver-properties>
+    </data-source>
+  </component>
+</application>
