@@ -36,11 +36,11 @@
         <property name="applicationName" value="DataGrip" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="PHOENIX_ADMINISTRATIVE@cl-sqltestphx-l.post.ee" uuid="7a673e14-9d03-4036-8cbf-e9ff46636e65">
+    <data-source source="LOCAL" name="PHOENIX_ADMINISTRATIVE-test-DB@cl-sqltestphx-l.post.ee" uuid="7a673e14-9d03-4036-8cbf-e9ff46636e65">
       <driver-ref>sqlserver.ms</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
-      <jdbc-url>jdbc:sqlserver://cl-sqltestphx-l.post.ee;database=PHOENIX_ADMINISTRATIVE</jdbc-url>
+      <jdbc-url>jdbc:sqlserver://cl-sqltestphx-l.post.ee:1433;database=PHOENIX_ADMINISTRATIVE-test-DB</jdbc-url>
       <explain-plan-config>
         <provider>com.intellij.database.plan.ExplainPlanProvider.NullExplainPlanProvider</provider>
       </explain-plan-config>
