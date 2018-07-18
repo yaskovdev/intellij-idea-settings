@@ -36,16 +36,14 @@
         <property name="applicationName" value="DataGrip" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="PHOENIX_ADMINISTRATIVE-test-DB@cl-sqltestphx-l.post.ee" uuid="7a673e14-9d03-4036-8cbf-e9ff46636e65">
-      <driver-ref>sqlserver.ms</driver-ref>
+    <data-source source="LOCAL" name="PHOENIX_ADMINISTRATIVE-test-DB@cl-sqltestphx-l.post.ee" uuid="f29afba4-e93a-49f2-828b-650f59a9208b">
+      <driver-ref>sqlserver.jtds</driver-ref>
       <synchronize>true</synchronize>
-      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
-      <jdbc-url>jdbc:sqlserver://cl-sqltestphx-l.post.ee:1433;database=PHOENIX_ADMINISTRATIVE-test-DB</jdbc-url>
-      <explain-plan-config>
-        <provider>com.intellij.database.plan.ExplainPlanProvider.NullExplainPlanProvider</provider>
-      </explain-plan-config>
+      <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:jtds:sqlserver://cl-sqltestphx-l.post.ee/PHOENIX_ADMINISTRATIVE-test-DB</jdbc-url>
       <driver-properties>
-        <property name="applicationName" value="DataGrip" />
+        <property name="appName" value="DataGrip" />
+        <property name="DOMAIN" value="POST" />
       </driver-properties>
     </data-source>
   </component>
