@@ -73,18 +73,6 @@
         <property name="applicationName" value="DataGrip" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="PHOENIX_CDN_ADAPTER@dev-phoenix-db.post.ee" uuid="6347f409-41b2-4de7-afc4-47758dd41ae6">
-      <driver-ref>sqlserver.ms</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
-      <jdbc-url>jdbc:sqlserver://dev-phoenix-db.post.ee;database=PHOENIX_CDN_ADAPTER</jdbc-url>
-      <explain-plan-config>
-        <provider>com.intellij.database.plan.ExplainPlanProvider.NullExplainPlanProvider</provider>
-      </explain-plan-config>
-      <driver-properties>
-        <property name="applicationName" value="DataGrip" />
-      </driver-properties>
-    </data-source>
     <data-source source="LOCAL" name="PHOENIX_CDN_ADAPTER-test-DB@cl-sqltestphx-l.post.ee" uuid="a326acf7-0fdb-4888-849f-d073d9748c34">
       <driver-ref>sqlserver.jtds</driver-ref>
       <synchronize>true</synchronize>
