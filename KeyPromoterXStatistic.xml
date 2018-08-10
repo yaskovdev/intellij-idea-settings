@@ -22,7 +22,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>21</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -30,7 +30,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>1</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reload Page">
@@ -39,6 +39,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'PhoenixResourceAdapterServiceImplTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'PhoenixResourceAdapterServiceImplTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -62,7 +70,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
     </option>
