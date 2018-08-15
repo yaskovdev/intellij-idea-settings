@@ -9,6 +9,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Cancel Query">
+        <Item>
+          <IdeaActionID>Console.TableResult.Cancel</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Cancel Query</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Commit Message History">
         <Item>
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
@@ -62,7 +70,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'Shift+Enter'</ShortCut>
           <Description>Properties</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reload Page">
