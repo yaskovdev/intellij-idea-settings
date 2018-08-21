@@ -148,5 +148,18 @@
         <property name="DOMAIN" value="POST" />
       </driver-properties>
     </data-source>
+    <data-source source="LOCAL" name="PHOENIX_NOTIFICATION-test-DB@cl-sqltestphx-l.post.ee" uuid="8475ee0e-a86e-4329-821f-e3ec18c6d422">
+      <driver-ref>sqlserver.jtds</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:jtds:sqlserver://cl-sqltestphx-l.post.ee/PHOENIX_NOTIFICATION-test-DB</jdbc-url>
+      <explain-plan-config>
+        <provider>com.intellij.database.plan.ExplainPlanProvider.NullExplainPlanProvider</provider>
+      </explain-plan-config>
+      <driver-properties>
+        <property name="appName" value="DataGrip" />
+        <property name="DOMAIN" value="POST" />
+      </driver-properties>
+    </data-source>
   </component>
 </application>

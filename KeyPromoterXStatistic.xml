@@ -70,7 +70,7 @@
           <IdeaActionID>DatabaseView.CopyAction</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Duplicate</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -94,7 +94,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'Shift+Enter'</ShortCut>
           <Description>Properties</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reload Page">
@@ -215,6 +215,14 @@
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
           <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Synchronize">
+        <Item>
+          <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Y'</ShortCut>
+          <Description>Synchronize</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
