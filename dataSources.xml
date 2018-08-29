@@ -111,7 +111,7 @@
         <property name="DOMAIN" value="POST" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="PHOENIX_CDN_ADAPTER@dev-phoenix-db.post.ee" uuid="1ab72baa-9de3-41fc-9b05-d2fd7847c514">
+    <data-source source="LOCAL" name="dev-phoenix-db.post.ee" uuid="1ab72baa-9de3-41fc-9b05-d2fd7847c514">
       <driver-ref>sqlserver.ms</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
