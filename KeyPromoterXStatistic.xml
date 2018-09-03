@@ -110,7 +110,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -166,7 +166,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'app'</Description>
-          <Count>5</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -214,6 +214,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Sandbox'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run...">
+        <Item>
+          <IdeaActionID>ChooseRunConfiguration</IdeaActionID>
+          <ShortCut>'Alt+Shift+F10'</ShortCut>
+          <Description>Run...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
