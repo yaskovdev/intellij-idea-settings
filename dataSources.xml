@@ -12,18 +12,6 @@
         <property name="applicationName" value="DataGrip" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="PHOENIX_ADMINISTRATIVE@localhost" uuid="ad4ea935-eff3-43b6-a51b-6302abba759d">
-      <driver-ref>sqlserver.ms</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
-      <jdbc-url>jdbc:sqlserver://localhost;database=PHOENIX_ADMINISTRATIVE</jdbc-url>
-      <explain-plan-config>
-        <provider>com.intellij.database.plan.ExplainPlanProvider.NullExplainPlanProvider</provider>
-      </explain-plan-config>
-      <driver-properties>
-        <property name="applicationName" value="DataGrip" />
-      </driver-properties>
-    </data-source>
     <data-source source="LOCAL" name="PHOENIX_ADMINISTRATIVE-test-DB@cl-sqltestphx-l.post.ee" uuid="f29afba4-e93a-49f2-828b-650f59a9208b">
       <driver-ref>sqlserver.jtds</driver-ref>
       <synchronize>true</synchronize>
