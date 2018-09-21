@@ -382,7 +382,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'app'</Description>
-          <Count>66</Count>
+          <Count>67</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'clean install -D maven.test.skip'">
