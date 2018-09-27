@@ -294,7 +294,7 @@
           <IdeaActionID>Console.TableResult.SetNull</IdeaActionID>
           <ShortCut>'Ctrl+Alt+N'</ShortCut>
           <Description>Set NULL</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -422,7 +422,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>47</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -438,7 +438,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>261</Count>
+          <Count>265</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
