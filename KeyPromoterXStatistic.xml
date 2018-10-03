@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>142</Count>
+          <Count>144</Count>
         </Item>
       </Statistic>
       <Statistic Action="Data Source Properties">
@@ -390,7 +390,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'app'</Description>
-          <Count>84</Count>
+          <Count>85</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'clean install -D maven.test.skip'">
