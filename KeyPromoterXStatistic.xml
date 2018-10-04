@@ -46,7 +46,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'Shift+Enter'</ShortCut>
           <Description>Data Source Properties</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'app'">
@@ -142,7 +142,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'Shift+Enter'</ShortCut>
           <Description>Properties</Description>
-          <Count>42</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Evaluate Expression">
@@ -390,7 +390,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'app'</Description>
-          <Count>85</Count>
+          <Count>86</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'clean install -D maven.test.skip'">
