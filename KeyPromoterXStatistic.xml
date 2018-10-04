@@ -78,7 +78,7 @@
           <IdeaActionID>DatabaseView.CloseConnectionAction</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Disconnect</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Duplicate">
@@ -142,7 +142,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'Shift+Enter'</ShortCut>
           <Description>Properties</Description>
-          <Count>44</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Evaluate Expression">
@@ -166,7 +166,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>314</Count>
+          <Count>315</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -390,7 +390,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'app'</Description>
-          <Count>89</Count>
+          <Count>90</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'clean install -D maven.test.skip'">
@@ -430,7 +430,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>14</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
