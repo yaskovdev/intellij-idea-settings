@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>161</Count>
+          <Count>163</Count>
         </Item>
       </Statistic>
       <Statistic Action="Data Source Properties">
