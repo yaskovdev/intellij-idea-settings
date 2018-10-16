@@ -361,6 +361,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'LocationServiceIntegrationTest.shouldSearchCountries'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'LocationServiceIntegrationTest.shouldSearchCountries'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'PhoenixMasterDataService'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
