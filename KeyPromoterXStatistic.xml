@@ -102,7 +102,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>284</Count>
+          <Count>298</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -470,7 +470,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>304</Count>
+          <Count>308</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
