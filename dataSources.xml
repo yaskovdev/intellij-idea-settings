@@ -152,5 +152,18 @@
         <property name="DOMAIN" value="POST" />
       </driver-properties>
     </data-source>
+    <data-source source="LOCAL" name="cl-sql-phx-l.post.ee (LIVE)" uuid="7b050ca6-ac1f-4cc0-b0de-9aaf368ac7d9">
+      <driver-ref>sqlserver.jtds</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:jtds:sqlserver://cl-sql-phx-l.post.ee</jdbc-url>
+      <explain-plan-config>
+        <provider>com.intellij.database.plan.ExplainPlanProvider.NullExplainPlanProvider</provider>
+      </explain-plan-config>
+      <driver-properties>
+        <property name="appName" value="DataGrip" />
+        <property name="DOMAIN" value="POST" />
+      </driver-properties>
+    </data-source>
   </component>
 </application>
