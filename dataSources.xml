@@ -139,7 +139,7 @@
         <property name="DOMAIN" value="POST" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="cl-sql-t-phxext.post.ee" uuid="296fc7d5-ac56-4409-bc4d-2e3197762edd">
+    <data-source source="LOCAL" name="cl-sql-t-phxext.post.ee (TEST)" uuid="296fc7d5-ac56-4409-bc4d-2e3197762edd">
       <driver-ref>sqlserver.jtds</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
