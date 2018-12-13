@@ -12,7 +12,7 @@
         <property name="applicationName" value="DataGrip" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="cl-sqlpphxext-l.post.ee" uuid="fea1dbeb-22ff-4683-b1c3-43a68e977779">
+    <data-source source="LOCAL" name="cl-sqlpphxext-l.post.ee (PRE-LIVE)" uuid="fea1dbeb-22ff-4683-b1c3-43a68e977779">
       <driver-ref>sqlserver.jtds</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
@@ -25,7 +25,7 @@
         <property name="DOMAIN" value="POST" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="dev-phoenix-db.post.ee" uuid="1ab72baa-9de3-41fc-9b05-d2fd7847c514">
+    <data-source source="LOCAL" name="dev-phoenix-db.post.ee (DEV)" uuid="1ab72baa-9de3-41fc-9b05-d2fd7847c514">
       <driver-ref>sqlserver.ms</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
@@ -37,7 +37,7 @@
         <property name="applicationName" value="DataGrip" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="cl-sqlPlphx-l.post.ee" uuid="8cf0a388-cc95-4050-9795-4ca3cc67b958">
+    <data-source source="LOCAL" name="cl-sqlPlphx-l.post.ee (PRE-LIVE)" uuid="8cf0a388-cc95-4050-9795-4ca3cc67b958">
       <driver-ref>sqlserver.jtds</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
