@@ -1,7 +1,7 @@
 <code_scheme name="Phoenix Conventions" version="173">
   <option name="RIGHT_MARGIN" value="200" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
@@ -33,13 +33,16 @@
   <Properties>
     <option name="KEEP_BLANK_LINES" value="true" />
   </Properties>
-  <TypeScriptCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="IMPORT_USE_NODE_RESOLUTION" value="GLOBAL" />
   </TypeScriptCodeStyleSettings>
+  <XML>
+    <option name="XML_ALIGN_ATTRIBUTES" value="false" />
+  </XML>
   <codeStyleSettings language="Groovy">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
