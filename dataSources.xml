@@ -5,9 +5,6 @@
       <synchronize>true</synchronize>
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
       <jdbc-url>jdbc:sqlserver://localhost;database=PHOENIX_PSN</jdbc-url>
-      <explain-plan-config>
-        <provider>com.intellij.database.plan.ExplainPlanProvider.NullExplainPlanProvider</provider>
-      </explain-plan-config>
       <driver-properties>
         <property name="applicationName" value="DataGrip" />
       </driver-properties>
@@ -17,9 +14,6 @@
       <synchronize>true</synchronize>
       <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:jtds:sqlserver://cl-sqlpphxext-l.post.ee</jdbc-url>
-      <explain-plan-config>
-        <provider>com.intellij.database.plan.ExplainPlanProvider.NullExplainPlanProvider</provider>
-      </explain-plan-config>
       <driver-properties>
         <property name="appName" value="DataGrip" />
         <property name="DOMAIN" value="POST" />
@@ -30,9 +24,6 @@
       <synchronize>true</synchronize>
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
       <jdbc-url>jdbc:sqlserver://dev-phoenix-db.post.ee;database=PHOENIX_CDN_ADAPTER</jdbc-url>
-      <explain-plan-config>
-        <provider>com.intellij.database.plan.ExplainPlanProvider.NullExplainPlanProvider</provider>
-      </explain-plan-config>
       <driver-properties>
         <property name="applicationName" value="DataGrip" />
       </driver-properties>
@@ -42,9 +33,6 @@
       <synchronize>true</synchronize>
       <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:jtds:sqlserver://cl-sqlPlphx-l.post.ee</jdbc-url>
-      <explain-plan-config>
-        <provider>com.intellij.database.plan.ExplainPlanProvider.NullExplainPlanProvider</provider>
-      </explain-plan-config>
       <driver-properties>
         <property name="appName" value="DataGrip" />
         <property name="DOMAIN" value="POST" />
@@ -55,9 +43,6 @@
       <synchronize>true</synchronize>
       <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:jtds:sqlserver://cl-sql-t-phxext.post.ee:1450/PHOENIX_PVC-test-DB</jdbc-url>
-      <explain-plan-config>
-        <provider>com.intellij.database.plan.ExplainPlanProvider.NullExplainPlanProvider</provider>
-      </explain-plan-config>
       <driver-properties>
         <property name="appName" value="DataGrip" />
         <property name="DOMAIN" value="POST" />
@@ -68,9 +53,6 @@
       <synchronize>true</synchronize>
       <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:jtds:sqlserver://cl-sql-phx-l.post.ee</jdbc-url>
-      <explain-plan-config>
-        <provider>com.intellij.database.plan.ExplainPlanProvider.NullExplainPlanProvider</provider>
-      </explain-plan-config>
       <driver-properties>
         <property name="appName" value="DataGrip" />
         <property name="DOMAIN" value="POST" />
@@ -81,9 +63,16 @@
       <synchronize>true</synchronize>
       <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:jtds:sqlserver://cl-sql-ext-l.post.ee</jdbc-url>
-      <explain-plan-config>
-        <provider>com.intellij.database.plan.ExplainPlanProvider.NullExplainPlanProvider</provider>
-      </explain-plan-config>
+      <driver-properties>
+        <property name="appName" value="DataGrip" />
+        <property name="DOMAIN" value="POST" />
+      </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="cl-sqltestphx-l.post.ee (TEST)" uuid="614fccd7-ff8b-4aca-a465-4c17e9020299">
+      <driver-ref>sqlserver.jtds</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:jtds:sqlserver://cl-sqltestphx-l.post.ee:1450</jdbc-url>
       <driver-properties>
         <property name="appName" value="DataGrip" />
         <property name="DOMAIN" value="POST" />
