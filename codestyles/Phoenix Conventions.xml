@@ -29,6 +29,7 @@
         <package name="" withSubpackages="true" static="false" />
       </value>
     </option>
+    <option name="JD_ALIGN_PARAM_COMMENTS" value="false" />
   </JavaCodeStyleSettings>
   <Properties>
     <option name="KEEP_BLANK_LINES" value="true" />
